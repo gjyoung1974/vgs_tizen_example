@@ -5,7 +5,7 @@
     <profile name="wearable"/>
     <ui-application appid="org.gjyoung1974.vgs_tizen_example" exec="vgs_tizen_example" multiple="false" nodisplay="false" taskmanage="true" type="capp">
         <label>vgs_tizen_example</label>
-        <icon>vgs_tizen_example.png</icon>
+        <icon>Logo_icon_in color.png</icon>
     </ui-application>
     <privileges>
         <privilege>http://tizen.org/privilege/healthinfo</privilege>

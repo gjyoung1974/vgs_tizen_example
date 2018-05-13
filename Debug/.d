@@ -1,17 +1,14 @@
-res/edje/data.edj: ../res/edje/../../inc/view_defines.h \
+res/edje/indicator.edj: ../res/edje/../../inc/view_defines.h \
   ../res/edje/edc_defines.h \
-  ./../res/images/main/background_application.png \
-  ./../res/images/examples/background_examples.png \
-  ./../res/images/background_2.png \
   ./../res/images/background_2.png \
   ./../res/images/indicator/indicator_notselected.png \
   ./../res/images/indicator/indicator_selected.png \
   ./../res/images/main/background_frame.png \
   ./../res/images/examples/play_button_normal.png \
-  ./../res/images/background_2_frame.png \
-  ./../res/images/examples/play_button_hoover.png \
   ./../res/images/information/button_data_prev.png \
   ./../res/images/information/button_data_next.png \
+  ./../res/images/background_2_frame.png \
+  ./../res/images/examples/play_button_hoover.png \
   ./../res/images/background_2_frame.png \
   ./../res/images/main/main_indicator1_on.png \
   ./../res/images/main/main_indicator2_on.png \
