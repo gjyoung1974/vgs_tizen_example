@@ -4,7 +4,9 @@
 
 c99 example leveraging Samsung Tizen OS    
 
-Tokenize heart rate sensor data && Persist to mobile backed service    
+Tokenize sensor data && Persist to mobile backed service        
+
+[vgs_tizen_demo.png](./docs/vgs_tizen_demo.png)    
 
 
 
