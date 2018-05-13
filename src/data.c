@@ -308,6 +308,8 @@ void data_get_sensor_data(sensor_type_e type)
 	sensor_event_s event;
 
 	sensor_listener_read_data(s_info.sensors[s_info.current_sensor].listener, &event);
+	//&event.values[0]
+	post_with_libcurl(); //TODO post the data to MBES
 	_timer_stop();
 
 	if (type == SENSOR_HRM)

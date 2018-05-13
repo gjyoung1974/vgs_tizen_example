@@ -4,11 +4,11 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>DUIzgzhuof6azVECxn1dasVFmEkSdZNgzC3Jqn7tpSo=</DigestValue>
+<DigestValue>+5jH4jAmwFQXjSb6RtTE65muOIyG6/7YFv06dtwE8eQ=</DigestValue>
 </Reference>
 <Reference URI="bin%2Fvgs_tizen_example">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>rqJ/xAOvrNSKDVTD5lhEYZ6iSMXo7sn9Q2IiQsRuH9Q=</DigestValue>
+<DigestValue>G2blBYjMVezZ3BFrdmfS31scc6i0GLrFVjYNFlkz8LU=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fdata.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Fexample.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Yhv2VRSpYhA74y+pxAnzEEzb7AAjbFLvTIijIxvde1Q=</DigestValue>
+<DigestValue>i3kDWSfn5i0OTSfIm7HNpoj8WYLWkUF3fVZaJqbUCUA=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Findicator.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -44,7 +44,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Finformation.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>YK8ic5TKbEWyusSh++QIAO8ZBrhjOnZIwCxrWwExhI8=</DigestValue>
+<DigestValue>fzG8HcIvUk2j5MGtXH7wjx4LtkdqB+4LjZ6wzF6hVcg=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fmain.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -52,7 +52,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Fmain.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AYLsLqlMkNfBwKjle0u3QRZI5axc3DZF5XwOwj9ZteA=</DigestValue>
+<DigestValue>tHGcTkg62YrtrA6AQID9FsLczCsRZnLMtVuNBPgv+pM=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fsubdir.ninja">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -223,9 +223,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-qJBELjI747K7Go2bXHPL/wMroxIXj8tD1TgZJPx6KdajfuOj/G61dJxPyawKvEn+25HYT2jIc5vt
-yUUAFLxILk5PTnOslFYLh3T+Gb9jlYoAMw+l6zV7aO0Jp2/V3kaSyXWfL6uwzO9azRH/2lL3l27p
-Gr0XP5qmke3SILO7DUY=
+pMxLNflxjHkPctw0B5w3bO33IXh9w9BoErdXGsKEtLiETK5WK9nqvv1dAnWhd2HhzJZjMCVcXIQf
+lX517M2EhzsnbXeVxABiPYEDNTj4op+9i8VyYx9ydcNd95B8+kdrNqo9WxBZ80RQwnKx91hgBoRB
+qhxJP9wzANP/1jX3ESs=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
