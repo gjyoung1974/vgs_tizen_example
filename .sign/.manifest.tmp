@@ -1,15 +1,15 @@
-bin/vgs_tizen_example__DEL__R8hTu6IGYJ+2YnXQFL85P7xpVy4l4+z5l6uCeNKR8qY=
+bin/vgs_tizen_example__DEL__hJaHY3z0IibQkDbJLqnGjvDolTUaKypIdod9BtY+pMY=
 res/edje/data.edc__DEL__5+Ixhy8HLbwe8Sw4macmSthqHVLtDJJXS35zQXM1+lo=
 res/edje/data.edj__DEL__RDfkyLonsEep28wLevEsSoZhyAoKx0R0/fiOLpdUzko=
 res/edje/edc_defines.h__DEL__CvEmf0QcT7zfzuyido9KDVrg6kLFCfzJHg8LRe9REiU=
 res/edje/example.edc__DEL__BIjP+U71sGYGZefd+LVUmsKc2Q0cJsTw8FW6KgSdOfE=
-res/edje/example.edj__DEL__HWFZ6HTbrNFMLad3RDumz8+5FPG2VJpzAmKBlcaRnYM=
+res/edje/example.edj__DEL__WBeJkt4oyEdEeqdgoB2AJFICxgj/JfLvgFT8Q153hKQ=
 res/edje/indicator.edc__DEL__wNPnCYMfGjm0pzNZoM933KPkHHa7dN8MdQJOQ7Wmmsc=
 res/edje/indicator.edj__DEL__1Q1e7yIBpuafBLKrx9MnQPss/9DjzUMQzc/kFPGPw4g=
 res/edje/information.edc__DEL__b0m/hrenJNtDPrSCC9UHb18Yw5pWU0ZyFS0oLjTtDHU=
-res/edje/information.edj__DEL__bHWGZOSLetqq4azPMj2GI+mgtDL+OrMA3439uEVU0Pk=
+res/edje/information.edj__DEL__ILhm99509aQVwcCzi+naNpf5TFXSJbGs8yXKE3gHlyw=
 res/edje/main.edc__DEL__tt4CFg60CUlvaZ7FteozsjBNrddQyRpL2pk8xm+hykw=
-res/edje/main.edj__DEL__3N2IF6dFqFTCogpln701TmuCs+fj6N7PMNjC0pS+9kM=
+res/edje/main.edj__DEL__yAe4MzbEo02R8IlDMy0Q4IhRtdi3AEKgWLOlEX2xuuc=
 res/edje/subdir.ninja__DEL__Ucwv8YpO8NKwFMzOPUtcVqcsrZ79BiLt7+cNuloTDcs=
 res/images/background_2.png__DEL__U8tnyKtRwB/G26c+sP5doF99KqNLOdu0zOEMgGgm0uQ=
 res/images/background_2_frame.png__DEL__LQYV3vrVWENoXn3upmo+ogGVs7WKyZGBLKzW8F2plaQ=
@@ -50,5 +50,5 @@ res/images/main/menu_text_examples.png__DEL__VlbW0Qpq059PGsLSoydj0RkcGl2SIQvuS4J
 res/images/main/menu_text_information.png__DEL__EcESxBzMXLAFOaf/XmOdGH+ADEO318SvntIQNrazJJI=
 shared/res/Logo_icon_in color.png__DEL__c7P32PgHlYWSyIDHdleD4xZLh40hv/csndpkeVvNQe4=
 shared/res/vgs_tizen_example.png__DEL__PJTA1g7hbOX79+/tKmD+B8K24BLyou0KN4wmFQ8nKT4=
-tizen-manifest.xml__DEL__bLWWv+ID94yzS5NQyidlBwWdOnI96dTgUqBnRXrwtL0=
-author-signature.xml__DEL__mytom1fIrzDAnQrE8whl4IWFBUTzseyt7P7WRT84B7I=
+tizen-manifest.xml__DEL__7AuscTkNurXXc8VHhN6vCgzAqY7QtCXC0gLvUTrDTEk=
+author-signature.xml__DEL__UYHVeG/ZFs4zAVHIeZy275aTcO9zi9Z802fEMha880E=

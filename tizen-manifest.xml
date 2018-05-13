@@ -8,6 +8,10 @@
         <icon>Logo_icon_in color.png</icon>
     </ui-application>
     <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
         <privilege>http://tizen.org/privilege/healthinfo</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
     </privileges>
 </manifest>

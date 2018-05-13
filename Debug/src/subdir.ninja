@@ -21,6 +21,11 @@ build src/main.o.ast: build_c_fast_ast ../src/main.c
 build $sareportdir/src/main.o.xml: build_c_fast_sa src/main.o.ast || externalFnMap.txt
 build src/main.o.txt: build_c_api ../src/main.c 
 build $coveragedir/src/main.o.cov: build_cov ../src/main.c 
+build src/post-via-vgs.o: build_c ../src/post-via-vgs.c 
+build src/post-via-vgs.o.ast: build_c_fast_ast ../src/post-via-vgs.c 
+build $sareportdir/src/post-via-vgs.o.xml: build_c_fast_sa src/post-via-vgs.o.ast || externalFnMap.txt
+build src/post-via-vgs.o.txt: build_c_api ../src/post-via-vgs.c 
+build $coveragedir/src/post-via-vgs.o.cov: build_cov ../src/post-via-vgs.c 
 build src/view.o: build_c ../src/view.c 
 build src/view.o.ast: build_c_fast_ast ../src/view.c 
 build $sareportdir/src/view.o.xml: build_c_fast_sa src/view.o.ast || externalFnMap.txt

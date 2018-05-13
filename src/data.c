@@ -25,6 +25,12 @@
 #include "vgs_tizen_example.h"
 #include "view_defines.h"
 
+/* Include support for VGS Proxy  */
+#include <curl/curl.h>
+#include <net_connection.h>
+#include "post-via-vgs.h" //libcurl client to proxy via VGS to our mobile backend service
+/* Include support for VGS Proxy  */
+
 #define MAX_GYRO_VALUE 571.0
 #define MAX_HRM_VALUE 220.0
 #define LISTENER_TIMEOUT 0
