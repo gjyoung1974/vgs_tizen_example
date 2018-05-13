@@ -4,11 +4,11 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>UYHVeG/ZFs4zAVHIeZy275aTcO9zi9Z802fEMha880E=</DigestValue>
+<DigestValue>DUIzgzhuof6azVECxn1dasVFmEkSdZNgzC3Jqn7tpSo=</DigestValue>
 </Reference>
 <Reference URI="bin%2Fvgs_tizen_example">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hJaHY3z0IibQkDbJLqnGjvDolTUaKypIdod9BtY+pMY=</DigestValue>
+<DigestValue>rqJ/xAOvrNSKDVTD5lhEYZ6iSMXo7sn9Q2IiQsRuH9Q=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fdata.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Fdata.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>RDfkyLonsEep28wLevEsSoZhyAoKx0R0/fiOLpdUzko=</DigestValue>
+<DigestValue>OWHot2f/kqz/ouq/PUbSb3AV/hoNlSKMtLkY+zCn2s8=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fedc_defines.h">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Fexample.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WBeJkt4oyEdEeqdgoB2AJFICxgj/JfLvgFT8Q153hKQ=</DigestValue>
+<DigestValue>Yhv2VRSpYhA74y+pxAnzEEzb7AAjbFLvTIijIxvde1Q=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Findicator.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Findicator.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>1Q1e7yIBpuafBLKrx9MnQPss/9DjzUMQzc/kFPGPw4g=</DigestValue>
+<DigestValue>K52A5qqhRqDOswq9dd7U2V7COw7LpDygZd3aX0XFjTc=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Finformation.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -44,7 +44,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Finformation.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ILhm99509aQVwcCzi+naNpf5TFXSJbGs8yXKE3gHlyw=</DigestValue>
+<DigestValue>YK8ic5TKbEWyusSh++QIAO8ZBrhjOnZIwCxrWwExhI8=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fmain.edc">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -52,7 +52,7 @@
 </Reference>
 <Reference URI="res%2Fedje%2Fmain.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>yAe4MzbEo02R8IlDMy0Q4IhRtdi3AEKgWLOlEX2xuuc=</DigestValue>
+<DigestValue>AYLsLqlMkNfBwKjle0u3QRZI5axc3DZF5XwOwj9ZteA=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fsubdir.ninja">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -210,10 +210,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>c7P32PgHlYWSyIDHdleD4xZLh40hv/csndpkeVvNQe4=</DigestValue>
 </Reference>
-<Reference URI="shared%2Fres%2Fvgs_tizen_example.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>PJTA1g7hbOX79+/tKmD+B8K24BLyou0KN4wmFQ8nKT4=</DigestValue>
-</Reference>
 <Reference URI="tizen-manifest.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>7AuscTkNurXXc8VHhN6vCgzAqY7QtCXC0gLvUTrDTEk=</DigestValue>
@@ -227,9 +223,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-AhzCfhl4q/rH9Qp6p3xHGm51L91BbZDLznGYWPX5kuE7fRb8nfQuGYcZTOqRWs+JF+q7tCmzGVwg
-i8IU8H1WhQT2qLXzkiLt/eKEBum5Kv+M7OIH907cnfWvgOQ7/FC0pTTT9whspYnYnLdg2qK86GY4
-uJg/HuP1vaWO3MkP+9Y=
+qJBELjI747K7Go2bXHPL/wMroxIXj8tD1TgZJPx6KdajfuOj/G61dJxPyawKvEn+25HYT2jIc5vt
+yUUAFLxILk5PTnOslFYLh3T+Gb9jlYoAMw+l6zV7aO0Jp2/V3kaSyXWfL6uwzO9azRH/2lL3l27p
+Gr0XP5qmke3SILO7DUY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

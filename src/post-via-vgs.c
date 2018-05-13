@@ -1,12 +1,11 @@
 /*
- * 2018 gjyoung1974@gmail.com
+ * 2018 Gordon Young
+ * gjyoung1974@gmail.com
+ * A Samsung Tizen demo
+ * Demonstrating how to handle sensitive health data with VGS secure proxy and vault technologies
+ * This demo leverages the VGS Proxy to securely transorm "tokenize" heart rate sensor data
+ * And persist tokenized data in our mobile backend service API endpoint
  *
- *      The handling of sensitive data is covered by the VGS proxy on behalf by simply setting up a forward proxy
- *      VGS Proxy details are in libcurl by:
- *
- *      CURLOPT_PROXY <your vault's proxy URL>
- *      CURLOPT_PROXYUSERNAME <your vault's proxy username>
- *      CURLOPT_PROXYPASSWORD <your vault's proxy password>
  */
 
 #include "post-via-vgs.h"
