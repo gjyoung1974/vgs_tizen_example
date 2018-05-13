@@ -1,0 +1,18 @@
+# ninja log v5
+1	327	0	res/edje/indicator.edj	4e71cb5886f17d8f
+2	438	0	res/edje/information.edj	384a42c59a1801be
+1	545	0	res/edje/data.edj	53fc6d0c0b3b0fc9
+1	578	0	res/edje/example.edj	83bd15a7e63f4b06
+3	1274	0	res/edje/main.edj	380ca76d84d52464
+438	1528	0	src/main.o	a6cefed9d7eb3d97
+5	1565	0	src/data.o	2c9386a901bc484c
+327	1582	0	src/gif_animator.o	59937a3d35187525
+545	1690	0	src/view.o	f25f686b81de2e96
+578	1719	0	src/view/view_main.o	75c31abc278d877f
+1274	2611	0	src/view_chart.o	78249f020414c043
+1565	2806	0	src/view/view_data.o	4f21d1ff0291a1dd
+1533	2832	0	src/view/view_common.o	f0c29c7287bcaa2
+1582	2837	0	src/view/view_example.o	8ad514166e0f8e05
+1719	2860	0	src/view/view_information.o	dbf5885b89eaad64
+1691	2861	0	src/view/view_indicator.o	b276f9d759990aee
+2861	3466	0	vgs_tizen_example	62984a4204a903c4
