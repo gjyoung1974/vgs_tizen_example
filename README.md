@@ -12,3 +12,7 @@ App icon
 Heart Rate Data    
 ![vgs_tizen_demo-hrm.png](/docs/vgs_tizen_demo-hrm.png)     
 
+```
+2018 gjyoung1974
+```
+
